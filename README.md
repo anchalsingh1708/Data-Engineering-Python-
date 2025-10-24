@@ -1,5 +1,5 @@
 # Data-Engineering-Python-
-Sharing whatever I have learned about Python
+Sharing my projects done in Python
 
 - Python for Data Engineering
 - Understand Python fundamentals for data processing
