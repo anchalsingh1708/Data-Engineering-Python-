@@ -1,0 +1,26 @@
+SrNo,Emp_Name,EID,E_Designation,DOJ,Salary,Contact,Address,Status,ManagerID
+1,Aarav Nair,E1001,HR Executive,13-Jun-2023,93452,+916027347759,"147, Park Avenue, Mumbai",Permanent,E1001
+2,Aditya Sharma,E1002,Developer,23-Apr-2018,69428,+919078531945,"119, Church Street, Pune",Fulltime,E1003
+3,Tanya Reddy,E1003,Business Analyst,17-Jun-2024,112380,+917945321091,"59, MG Road, Delhi",Fulltime,E1002
+4,Rohan Sharma,E1004,HR Executive,01-Jun-2021,66415,+916314669345,"178, Park Avenue, Chennai",Permanent,E1005
+5,Ritu Gupta,E1005,Developer,08-Apr-2023,97200,+916480443630,"12, MG Road, Mumbai",Permanent,E1001
+6,Sahil Mehta,E1006,Manager,19-May-2021,66918,+916563474215,"63, MG Road, Pune",Fulltime,
+7,Vikas Sharma,E1007,Data Analyst,10-Oct-2020,36635,+916270210307,"79, Park Avenue, Mumbai",Fulltime,E1002
+8,Kavya Bose,E1008,Tester,17-May-2019,76148,+916625438489,"186, Church Street, Mumbai",Parttime,E1004
+9,Tanya Reddy,E1009,Data Analyst,12-Oct-2022,70411,+916061799758,"56, Park Avenue, Mumbai",Permanent,E1003
+10,Tanya Nair,E1010,HR Executive,18-May-2018,105074,+918332824174,"132, Link Road, Chennai",Fulltime,E1001
+11,Kiran Singh,E1011,HR Executive,08-Jun-2024,75764,+918233302488,"17, MG Road, Delhi",Parttime,E1003
+12,Kiran Reddy,E1012,Data Analyst,12-Oct-2024,107755,+919087201106,"89, Church Street, Chennai",Fulltime,E1001
+13,Kavya Reddy,E1013,Tester,21-Jun-2018,99567,+917313421800,"145, Park Avenue, Chennai",Permanent,E1005
+14,Rakesh Mehta,E1014,HR Executive,24-Oct-2020,110378,+917669953633,"151, Park Avenue, Chennai",Fulltime,E1005
+15,Meera Patel,E1015,Manager,02-Jan-2018,46889,+917117417019,"186, Link Road, Mumbai",Parttime,
+16,Vikas Sharma,E1016,Developer,28-Oct-2019,85800,+916833559199,"162, Park Avenue, Delhi",Parttime,E1002
+17,Rakesh Patel,E1017,Tester,05-Feb-2018,109685,+917904782391,"6, Link Road, Chennai",Permanent,E1003
+18,Nisha Mehta,E1018,Tester,14-Mar-2024,34268,+919953883049,"30, Park Avenue, Delhi",Parttime,E1003
+19,Tanya Singh,E1019,HR Executive,29-Jul-2020,37148,+918993062241,"163, MG Road, Chennai",Parttime,E1003
+20,Mitali Mehta,E1020,HR Executive,11-Apr-2019,35932,+918799824106,"95, Link Road, Pune",Parttime,E1005
+21,Rohan Gupta,E1021,Tester,18-Mar-2023,72873,+917788614937,"15, MG Road, Bangalore",Fulltime,E1001
+22,Varun Gupta,E1022,Data Analyst,27-Jun-2024,77556,+919949816106,"129, Church Street, Delhi",Fulltime,E1003
+23,Sahil Reddy,E1023,Manager,13-Aug-2020,60780,+919177736095,"67, MG Road, Pune",Permanent,
+24,Meera Patel,E1024,HR Executive,14-Aug-2023,77363,+917547454203,"127, Church Street, Bangalore",Parttime,E1002
+25,Vikas Sharma,E1025,Manager,21-May-2024,55761,+917965316974,"46, Park Avenue, Mumbai",Parttime,
