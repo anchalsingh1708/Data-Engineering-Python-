@@ -1,1 +1,3 @@
-
+-  If we use pandas to process large files logic will become complicated, pandas uses only one process to process the file
+-  Whereas DASK uses full capacity of the system 
+-  Pyspark works with spark clusters using multiple nodes
